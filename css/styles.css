@@ -1,0 +1,136 @@
+
+html{
+    text-align: center;
+    font-family:'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:50px;
+    font-size: 15px;
+
+
+}
+body{ 
+    width:33%
+}
+body a{
+    text-decoration: none;
+    color:blue;
+
+}
+
+.suggestion,.signup-next{
+    margin-top: 45px;
+    text-align: left;
+}
+.suggestion{
+    display:inline-block;
+}
+.sign-in{
+    font-size: 25px;
+}
+.box-one{
+    border:1px solid lightgray;
+    border-radius: 2%;
+    padding:30px;
+}
+.middle{
+    text-align: left;
+    margin-top:35px;
+
+}
+.google{
+    font-size: 20px;
+    margin:0;
+}
+.red{color:red}
+.green{color:green}
+.yellow{color:orange}
+.blue{color:blue}
+
+.smaller-size{
+    font-size: 15px;
+    text-align: left;
+}
+.sign-in{
+    margin:15px auto;
+}
+
+.mail-phone{
+    color:gray;
+    border:1px solid lightgray;
+    border-radius: 2%;
+    padding: 18px;
+}
+.link-blue{
+    color:#1a73e8;
+    font-weight: bold;
+
+}
+.signup-next{
+    font-size:15px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom:30px;
+    
+}
+
+.sign-up{
+    color:rgb(26,115,232);
+    padding:8px;
+    border-radius: 5%;
+
+}
+.sign-up:hover{
+    color:rgb(23,78,166);
+    background-color: #eef0f3;
+    padding:8px;
+    border-radius: 5%;
+
+}
+.next{
+    background-color: #1a73e8;
+    color:white;
+    padding:8px 24px;
+    border-radius: 5%;
+}
+.next:hover{
+    background-color: rgb(23,78,166);
+}
+
+img {
+    width:75px;
+    margin-top:20px;
+}
+
+.forgotten{
+    margin:0;
+}
+
+form{
+    text-align: left;
+    margin:30px 0;
+    
+}
+.box-two{
+    text-align: left;
+    font-size: 13px;
+    position:relative;
+    right:15px;
+
+
+}
+.box-two a{
+    color:black;
+    padding:15px;
+    
+
+}
+
+.box-two a:active{
+
+    background-color: rgb(238, 238, 238);
+    border-radius: 5%;
+}
+
